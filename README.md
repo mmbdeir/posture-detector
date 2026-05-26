@@ -1,4 +1,4 @@
-"# posture-detector" 
+# posture-detector
 We built a real time posture detector that can make a post or get request containing the results.
 
 The motive behind this project was to detect the posture of hospital patients locally without needing to store footage.
